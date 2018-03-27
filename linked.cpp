@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include <stdio.h>
+=======
+#include <stdio>
+>>>>>>> test
 
 using namespace std;
 
