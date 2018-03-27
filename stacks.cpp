@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<iostream>
 using namespace std;
  
 #define MAX 1000
@@ -58,5 +58,5 @@ int main()
  
     cout << s.pop() << " Popped from stack\n";
  
-    return 0;
+    return100;
 }

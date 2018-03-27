@@ -1,4 +1,4 @@
-#include <iostream>
+#include <stdio.h>
 
 using namespace std;
 
@@ -23,5 +23,5 @@ public:
 int main()
 {
     linked_list a;
-    return 0;
+    return 10;
 }
