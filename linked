@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-#include <stdio.h>
-=======
-#include <stdio>
->>>>>>> test
+#include <iostream>
 
 using namespace std;
 
@@ -27,5 +23,6 @@ public:
 int main()
 {
     linked_list a;
-    return 10;
+    return 0;
 }
+
