@@ -7,10 +7,11 @@ struct node
     int data;
     node *next;
 };
-
+//lets practice rebase//
 class linked_list
 {
 private:
+<<<<<<< HEAD
     node *head,*tail;
 public://doing commit in the master branch after branching now// 
 //let's see what happens//
@@ -20,11 +21,22 @@ public://doing commit in the master branch after branching now//
         head = NULL;
         tail = NULL;
     }
+=======
+//doing
+//adding some changes//
+node *head,*tail;
+public:
+linked_list()
+{
+head = NULL;
+tail = NULL;
+}
+>>>>>>> test
 };
 
 int main()
 {
     linked_list a;
     return 0;
-}
+} /*some changes*/
 
