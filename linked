@@ -12,7 +12,9 @@ class linked_list
 {
 private:
     node *head,*tail;
-public:
+public://doing commit in the master branch after branching now// 
+//let's see what happens//
+//whoaa//
     linked_list()
     {
         head = NULL;
